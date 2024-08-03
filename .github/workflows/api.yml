@@ -12,7 +12,7 @@ jobs:
 
         defaults:
             run:
-               working-directory: fatec-rent-a-car
+               working-directory: fate2-rent-a-car
 
         steps:
             - name: Checkout
