@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|solutionrelative:fatecrentapi\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|solutionrelative:fatecrentapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|solutionrelative:fatecrentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|solutionrelative:fatecrentapi\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|solutionrelative:fatecrentapi\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C963D916-66AA-49F5-B957-C3A709423B95}|FatecRentAPI\\FatecRentAPI.csproj|solutionrelative:fatecrentapi\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCD478F-D8CF-4CD9-88F6-9140FB84667C}|FatecRentAPI.Tests\\FatecRentAPI.Tests.csproj|c:\\dev2\\fatec2-rent-a-car\\fatecrentapi\\fatecrentapi.tests\\vehiclecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCD478F-D8CF-4CD9-88F6-9140FB84667C}|FatecRentAPI.Tests\\FatecRentAPI.Tests.csproj|solutionrelative:fatecrentapi.tests\\vehiclecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FatecRentAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\appsettings.Development.json",
+              "RelativeToolTip": "FatecRentAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T23:04:00.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "FatecRentAPI\\appsettings.Local.json",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\appsettings.Local.json",
+              "RelativeToolTip": "FatecRentAPI\\appsettings.Local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T23:03:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FatecRentAPI\\Program.cs",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\Program.cs",
+              "RelativeToolTip": "FatecRentAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:53:05.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "FatecRentAPI\\VehicleRepository.cs",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\VehicleRepository.cs",
+              "RelativeToolTip": "FatecRentAPI\\VehicleRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:55:05.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDbContext.cs",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\IDbContext.cs",
+              "RelativeDocumentMoniker": "FatecRentAPI\\IDbContext.cs",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\IDbContext.cs",
+              "RelativeToolTip": "FatecRentAPI\\IDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:30:52.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleControllerTests.cs",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI.Tests\\VehicleControllerTests.cs",
+              "RelativeDocumentMoniker": "FatecRentAPI.Tests\\VehicleControllerTests.cs",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI.Tests\\VehicleControllerTests.cs",
+              "RelativeToolTip": "FatecRentAPI.Tests\\VehicleControllerTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:41:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "FatecRentAPI\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\DEV2\\fatec2-rent-a-car\\FatecRentAPI\\FatecRentAPI\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "FatecRentAPI\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:07:38.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
